@@ -9,6 +9,7 @@ public class HelloWorld {
 
 		System.out.println("hotfix에서 추가");
 		System.out.println("의도적으로 충돌");
-
+		
+		System.out.println("github와의 연결작업1");
 	}
 }
